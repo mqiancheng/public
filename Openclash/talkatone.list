@@ -1,0 +1,10 @@
+# NAME: talkatone
+# AUTHOR: axin
+# UPDATED: 2024-11-15 21:09
+# DESCRIPTION: talkatone 自动连接美国节点
+
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,smadex.com
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,tktn.at

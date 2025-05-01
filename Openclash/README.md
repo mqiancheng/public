@@ -1,0 +1,1 @@
+删除掉etc/config目录下的openclash，替换掉

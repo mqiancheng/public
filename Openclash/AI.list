@@ -1,0 +1,41 @@
+# 内容 OpenAi Bard anthropic claude grok
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,grok-api
+DOMAIN-KEYWORD,x.ai
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,integrate.api.nvidia.com
+DOMAIN-SUFFIX,grok.x.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,api.x.ai
+
+# 匹配数据目标IP
+IP-CIDR,100.64.0.0/10
+IP-CIDR,211.137.58.20/32
+IP-CIDR,211.137.64.163/32
+IP-CIDR,104.18.19.80/32
