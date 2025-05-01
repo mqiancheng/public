@@ -8,7 +8,7 @@ const { exec } = require('child_process');
 const { WebSocket, createWebSocketStream } = require('ws');
 
 //	哪吒使用终端执行
-//	curl -L https://github.com/ghzxs/Debian-script/raw/refs/heads/main/.sh/agent.sh -o agent.sh && chmod +x agent.sh && env NZ_SERVER=[agentg:port] NZ_TLS=false/true NZ_UUID=[UUID] NZ_CLIENT_SECRET=[CLIENT SECRET] ./agent.sh
+//	curl -L https://raw.githubusercontent.com/mqiancheng/public/refs/heads/main/vps/node-ws/agent.sh -o agent.sh && chmod +x agent.sh && env NZ_SERVER=[agentg:port] NZ_TLS=false/true NZ_UUID=[UUID] NZ_CLIENT_SECRET=[CLIENT SECRET] ./agent.sh
 
 
 
