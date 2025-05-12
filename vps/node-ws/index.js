@@ -19,15 +19,15 @@ const NEZHA_KEY = process.env.NEZHA_KEY || '';  // 必填.v1的NZ_CLIENT_SECRET�
 const DOMAIN = process.env.DOMAIN || '';    // 必填.填写项目域名或已反代的域名，不带前缀，建议填已反代的域名
 const AUTO_ACCESS = process.env.AUTO_ACCESS || true;   // 是否开启自动访问保活,false为关闭,true为开启,需同时填写DOMAIN变量
 const SUB_PATH = process.env.SUB_PATH || 'sub';     // 获取节点的订阅路径
-const NAME = process.env.NAME || '美国us';  // 节点名称
-const PORT = process.env.PORT || 28010;     // http和ws服务端口
+const NAME = process.env.NAME || '';  // 节点名称
+const PORT = process.env.PORT || 3000;     // http和ws服务端口
 
 const httpServer = http.createServer((req, res) => {
     if (req.url === '/') {
         res.writeHead(200, { 'Content-Type': 'text/plain' });
         res.end('Hello, World\n');
     } else if (req.url === `/${SUB_PATH}`) {
-        const nodeName = `webhost-${NAME}`;
+        const nodeName = `${NAME}`;
         const vlessURL = `vless://${UUID}@www.visa.com.tw:443?encryption=none&security=tls&sni=${DOMAIN}&type=ws&host=${DOMAIN}&path=%2F#${nodeName}`;
 
         const base64Content = Buffer.from(vlessURL).toString('base64');
