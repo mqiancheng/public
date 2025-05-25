@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,grok-api
 DOMAIN-KEYWORD,x.ai
+DOMAIN-KEYWORD,chatgpt
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
