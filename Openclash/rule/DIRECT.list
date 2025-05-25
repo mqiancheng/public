@@ -2,7 +2,9 @@
 # DOMAIN-SUFFIX,021014.xyz
 
 # 论坛
-https://nodeloc.cc/
+DOMAIN-SUFFIX,nodeloc.cc
+DOMAIN-SUFFIX,linux.do
+
 
 # 大米电影
 DOMAIN-SUFFIX,qrrs56.com
