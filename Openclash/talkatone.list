@@ -1,7 +1,7 @@
 # NAME: Google Account Services & Talkatone
 # AUTHOR: mqiancheng
 # UPDATED: 2024-12-20
-# DESCRIPTION: Google 账号相关服务和 Talkatone 服务，保持美国地区
+# DESCRIPTION: Talkatone 服务，保持美国地区
 
 # Talkatone 相关服务
 DOMAIN-SUFFIX,tappx.com
