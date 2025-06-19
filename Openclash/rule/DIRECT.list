@@ -1,5 +1,7 @@
-# 直连规则
-IP-CIDR,65.108.71.229/24
+# 青蛙🐸直连
+IP-CIDR,65.108.71.229/32
+
+
 # 论坛
 DOMAIN-SUFFIX,nodeloc.cc
 DOMAIN-SUFFIX,linux.do
