@@ -16,18 +16,18 @@ IP-CIDR,156.238.217.0/24
 DOMAIN-SUFFIX,wynd.network
 
 # Cloudflare 相关
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflaressl.com
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflareinsights.com
-DOMAIN-SUFFIX,cloudflarestream.com
-DOMAIN-SUFFIX,cloudflare.tv
-DOMAIN-SUFFIX,cf-ns.com
-DOMAIN-SUFFIX,cfdata.org
-DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-KEYWORD,cloudflare
+#DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflaressl.com
+#DOMAIN-SUFFIX,cloudflare-dns.com
+#DOMAIN-SUFFIX,cloudflare-ipfs.com
+#DOMAIN-SUFFIX,cloudflareinsights.com
+#DOMAIN-SUFFIX,cloudflarestream.com
+#DOMAIN-SUFFIX,cloudflare.tv
+#DOMAIN-SUFFIX,cf-ns.com
+#DOMAIN-SUFFIX,cfdata.org
+#DOMAIN-SUFFIX,workers.dev
+#DOMAIN-SUFFIX,pages.dev
+#DOMAIN-KEYWORD,cloudflare
 
 # 其他杂项
 DOMAIN-KEYWORD,getgrass
