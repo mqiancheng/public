@@ -1,6 +1,12 @@
 # 青蛙🐸直连
 IP-CIDR,65.108.71.229/32
 
+# AWS直连
+IP-CIDR,54.186.45.197/32
+
+# neoheberg直连
+IP-CIDR,31.59.235.29/32
+
 
 # 论坛
 DOMAIN-SUFFIX,nodeloc.cc
