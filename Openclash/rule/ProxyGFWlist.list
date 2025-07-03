@@ -48,8 +48,6 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
@@ -57,7 +55,7 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,youtube
+
 
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
@@ -2205,7 +2203,6 @@ DOMAIN-SUFFIX,gloryhole.com
 DOMAIN-SUFFIX,glorystar.me
 DOMAIN-SUFFIX,gluckman.com
 DOMAIN-SUFFIX,glype.com
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,gmhz.org
 DOMAIN-SUFFIX,gmiddle.com
@@ -2521,7 +2518,6 @@ DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googleweblight.com
 DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,gopetition.com
