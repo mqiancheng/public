@@ -6,6 +6,9 @@ IP-CIDR,65.108.71.229/32
 # neoheberg直连
 IP-CIDR,31.59.235.29/32
 
+# nodeloc直连
+IP-CIDR,65.21.233.158/32
+
 
 # 论坛
 DOMAIN-SUFFIX,nodeloc.cc
