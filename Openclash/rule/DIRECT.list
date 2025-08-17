@@ -3,8 +3,12 @@ IP-CIDR,65.108.71.229/32
 
 # AWS直连
 
-# neoheberg直连
-IP-CIDR,31.59.235.29/32
+# serv00服务器
+DOMAIN-SUFFIX,serv00.com
+
+DOMAIN-SUFFIX,freecloud.ltd
+DOMAIN-SUFFIX,okgg.me
+DOMAIN-SUFFIX,021014.xyz
 
 # nodeloc直连
 IP-CIDR,65.21.233.158/32
