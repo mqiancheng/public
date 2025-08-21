@@ -2,6 +2,8 @@
 IP-CIDR,65.108.71.229/32
 
 # AWS直连
+IP-CIDR,35.78.248.12/32
+
 
 # serv00服务器
 DOMAIN-SUFFIX,serv00.com
