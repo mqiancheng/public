@@ -1,9 +1,14 @@
-# 青蛙🐸直连
+# VPS直连
 IP-CIDR,65.108.71.229/32
 
 # AWS直连
 IP-CIDR,35.78.248.12/32
 
+# nodeloc直连
+IP-CIDR,65.21.233.158/32
+
+# freevps直连
+IP-CIDR,154.36.154.16/32
 
 # freecloud直连
 DOMAIN-SUFFIX,freecloud.ltd
@@ -17,10 +22,6 @@ DOMAIN-SUFFIX,188.68.250.0/24
 cloudflare
 DOMAIN-SUFFIX,okgg.me
 DOMAIN-SUFFIX,021014.xyz
-
-# nodeloc直连
-IP-CIDR,65.21.233.158/32
-
 
 # 论坛
 DOMAIN-SUFFIX,nodeloc.com
