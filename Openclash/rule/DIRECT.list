@@ -1,5 +1,7 @@
 # VPS直连
 IP-CIDR,65.108.71.229/32
+DOMAIN-SUFFIX,okgg.me
+DOMAIN-SUFFIX,021014.xyz
 
 # AWS直连
 IP-CIDR,35.78.248.12/32
@@ -20,8 +22,13 @@ DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,188.68.250.0/24
 
 cloudflare
-DOMAIN-SUFFIX,okgg.me
-DOMAIN-SUFFIX,021014.xyz
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-KEYWORD,cloudflare
+
+
+
 
 # 论坛
 # DOMAIN-SUFFIX,nodeloc.com
@@ -40,4 +47,3 @@ DOMAIN-SUFFIX,wynd.network
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,922porxy
 DOMAIN-KEYWORD,yezi
-#DOMAIN-KEYWORD,cloudflare
