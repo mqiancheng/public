@@ -22,10 +22,10 @@ DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,188.68.250.0/24
 
 cloudflare
-# DOMAIN-SUFFIX,argotunnel.com
-# DOMAIN-SUFFIX,cloudflare.com
-# DOMAIN-SUFFIX,cloudflare.net
-# DOMAIN-KEYWORD,cloudflare
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-KEYWORD,cloudflare
 
 
 
