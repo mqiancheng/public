@@ -1,3 +1,6 @@
+SRC-IP-CIDR,192.168.7.0/24
+
+
 # VPS直连
 IP-CIDR,65.108.71.229/32
 DOMAIN-SUFFIX,okgg.me
@@ -26,8 +29,6 @@ DOMAIN-SUFFIX,188.68.250.0/24
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-KEYWORD,cloudflare
-
-
 
 
 # 论坛
