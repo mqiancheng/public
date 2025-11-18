@@ -33,7 +33,7 @@ DOMAIN-KEYWORD,cloudflare
 
 # 论坛
 # DOMAIN-SUFFIX,nodeloc.com
-DOMAIN-SUFFIX,linux.do
+# DOMAIN-SUFFIX,linux.do
 
 # 大米电影
 DOMAIN-SUFFIX,qrrs56.com
