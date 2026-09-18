@@ -45,6 +45,8 @@ IP-CIDR,156.238.217.0/24
 DOMAIN-SUFFIX,wynd.network
 
 # 其他杂项
+DOMAIN-SUFFIX,aaa.oogm.top
+DOMAIN-SUFFIX,fnnas.com
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,922porxy
 DOMAIN-KEYWORD,yezi
