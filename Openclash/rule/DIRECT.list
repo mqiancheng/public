@@ -1,4 +1,5 @@
 # PT下载
+DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-SUFFIX,pandapt.net
@@ -36,10 +37,7 @@ DOMAIN-SUFFIX,wynd.network
 
 # 其他杂项
 DOMAIN-SUFFIX,aaa.oogm.top
-DOMAIN-SUFFIX,fnnas.com
 DOMAIN-KEYWORD,getgrass
 DOMAIN-KEYWORD,922porxy
 DOMAIN-KEYWORD,yezi
-DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,aaa.oogm.top
-#DOMAIN-SUFFIX,katabump.com
